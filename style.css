@@ -1,0 +1,100 @@
+body{
+background-image: url(https://media.istockphoto.com/id/626056624/vector/mathematics-background.jpg?s=612x612&w=0&k=20&c=iSbq5qu3ecQt7-Sfx7IkpTSDFlayNyrUR4YUyED8keE=);
+
+  
+}
+div{
+  display:block;
+  
+  width: 30%;
+  height: 80%;
+  margin: 40px 60px;
+  border: 15px solid #5b8b64;
+  padding-top: 30px;
+  margin: auto;
+  border-radius: 25px;
+/*   border-spacing: 10px; */
+}
+h1{
+  text-align: center;
+  margin: -10px;
+  padding: 10px;
+}
+span  {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: #e1a8a8;
+  font-size: 40px;
+  margin: 10px;
+  padding: 10px;
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+/*   font-style: oblique; */
+  border: 5px solid white;
+  border-radius: 20px;
+  border-width: -20px;
+  text-shadow: 10px 5px #546d66;
+
+  box-shadow: -10px 5px 5px #91b021;
+/*   box-shadow: 10px -5px 5px #91b021; */
+}
+
+
+form {
+/*   display: flex; */
+/*   flex-wrap: wrap; */
+/*   align-items: center; */
+/*   justify-content: center; */
+  height: 500px;
+  width: 500px;
+  margin: 0 auto;
+  margin-left: 25px;
+
+}
+
+input[type="text"] {
+/*   font-size: 10px; */
+  
+  width: 80%;
+  height: 60px;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+input[type="text"]:focus {
+  background-color: lightyellow;
+}
+
+
+input[type="button"] {
+  
+/*   display: flex; */
+  border-radius: 20px;
+  font-weight: bold;
+  width: 85px;
+  height: 70px;
+  font-size: 20px;
+  color: #d45916;
+/*   background-color: #550557;*/
+/*   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQGdHt7xtVE_COrVrZzLJGRM2cwMkO3tcSA&usqp=CAU); */
+  border: none;
+  margin:8px;
+  background-color: bisque;
+/*   box-shadow: 0px 8px 15px rgba(255, 255, 255, 0.5); */
+  box-shadow: -10px -5px 5px #d5e878;
+    border-spacing: 10px;
+
+  
+}
+.main-header{
+transform: scale(1,1)
+
+}
+.main-header:hover{
+  -webkit-box-shadow: 17px 10px 41px 11px rgba(212, 150, 49, 1);
+-moz-box-shadow: 17px 10px 41px 11px rgba(212,150, 49, 1);
+ box-shadow: 17px 10px 41px 11px rgba(212,150,49,1);
+ }
